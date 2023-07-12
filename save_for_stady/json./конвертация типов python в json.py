@@ -1,0 +1,11 @@
+Python:          JSON:
+str              String
+int              Number
+float            Number
+True             true
+False            false
+None             null
+dict             Object
+list             Array
+tuple            Array
+set              dict
